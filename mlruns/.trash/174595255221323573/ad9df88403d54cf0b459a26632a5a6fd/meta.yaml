@@ -1,0 +1,16 @@
+artifact_uri: file:///home/khari2506/ml_flow/mlruns/174595255221323573/ad9df88403d54cf0b459a26632a5a6fd/artifacts
+deleted_time: 1728284128724
+end_time: 1728283545524
+entry_point_name: ''
+experiment_id: '174595255221323573'
+lifecycle_stage: deleted
+run_id: ad9df88403d54cf0b459a26632a5a6fd
+run_name: BestModel
+run_uuid: ad9df88403d54cf0b459a26632a5a6fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728283544301
+status: 3
+tags: []
+user_id: khari2506

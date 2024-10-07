@@ -1,0 +1,15 @@
+artifact_uri: file:///home/khari2506/ml_flow/mlruns/916992527177483616/f6aa0496a7014165a28e2e582820d4a0/artifacts
+end_time: 1728284201169
+entry_point_name: ''
+experiment_id: '916992527177483616'
+lifecycle_stage: active
+run_id: f6aa0496a7014165a28e2e582820d4a0
+run_name: LinearRegression
+run_uuid: f6aa0496a7014165a28e2e582820d4a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728284199628
+status: 3
+tags: []
+user_id: khari2506

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/khari2506/ml_flow/mlruns/174595255221323573/52e3569c4b04484399a27f79c5f86f50/artifacts
+deleted_time: 1728284128724
+end_time: 1728283544299
+entry_point_name: ''
+experiment_id: '174595255221323573'
+lifecycle_stage: deleted
+run_id: 52e3569c4b04484399a27f79c5f86f50
+run_name: LinearRegression
+run_uuid: 52e3569c4b04484399a27f79c5f86f50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728283542979
+status: 3
+tags: []
+user_id: khari2506
